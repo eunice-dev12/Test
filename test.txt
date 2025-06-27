@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world EUNICE test
+=======
+Hello world 
+>>>>>>> 34324aec42eb10cb9119bb4953af1730f85c5b31
